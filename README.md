@@ -6,7 +6,6 @@ Team:
   Vinay Agarwal
   Kevin Louis
   Matthew Bird
-  Michael Byers
   
 Using android for controlling firmware
 Using crazyflie android client open source from Bitcraze github
